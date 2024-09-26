@@ -1,10 +1,20 @@
-#Hi 👋! My name is Saif Yasser
+# Hi 👋! My name is Saif Yasser
 
 ### About me
-- 📚 I am a Software and Application Development Student
-- 👨‍💻 I love using Software and technology to solve problems.
-- 📚 I am currently learning Flutter Framework.
+<table>
+<tr>
+<td>
+- 📚 I am a Software and Application Development Student<br>
+- 👨‍💻 I love using Software and technology to solve problems.<br>
+- 📚 I am currently learning Flutter Framework.<br>
 - 📫 How to reach me: saifyasser386@gmail.com
+</td>
+<td>
+<img src="[https://media.giphy.com/media/your-gif-url-here.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTYyeGFqcWwxY2x1dmtudGc1bTRqenhpc21ldzhmOGI2bTM5Z3NydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UxMqMoC9xn1bCAqoob/giphy.gif)" width="250"/>
+</td>
+</tr>
+</table>
+
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saifyasser-blue)](https://www.linkedin.com/in/saif-yasser-166035265/)
