@@ -46,7 +46,7 @@
   <a href="https://developer.apple.com/ios/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/whatis/whatis_api.asp" target="_blank">
+  <a href="[https://www.w3schools.com/whatis/whatis_api.asp](https://media.lordicon.com/icons/wired/gradient/1330-rest-api.svg)" target="_blank">
     <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/API_icon.svg/1200px-API_icon.svg.png](https://media.lordicon.com/icons/wired/gradient/1330-rest-api.svg)" alt="API" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com" target="_blank">
