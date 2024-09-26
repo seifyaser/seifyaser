@@ -11,10 +11,9 @@
   
 - 📚 I am a Software and Application Development Student  
 - 👨‍💻 I love using Software and technology to solve problems.  
-- 📚 I am currently learning **Flutter Framework**  
+- 📚 I am currently learning **FLUTTER Framework**  
 - 📫 How to reach me: saifyasser386@gmail.com
 
-<img src="[./assets/about-me.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTYyeGFqcWwxY2x1dmtudGc1bTRqenhpc21ldzhmOGI2bTM5Z3NydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UxMqMoC9xn1bCAqoob/giphy.gif)" align="right" />
 </div>
 
 
