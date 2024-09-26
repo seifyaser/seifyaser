@@ -8,7 +8,7 @@
 - 📚 I am currently learning Flutter Framework.  
 - 📫 How to reach me: saifyasser386@gmail.com
 
-<img src="[./assets/about-me.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTYyeGFqcWwxY2x1dmtudGc1bTRqenhpc21ldzhmOGI2bTM5Z3NydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UxMqMoC9xn1bCAqoob/giphy.gif)" align="right" width="250"/>
+<img src="[./assets/about-me.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTYyeGFqcWwxY2x1dmtudGc1bTRqenhpc21ldzhmOGI2bTM5Z3NydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UxMqMoC9xn1bCAqoob/giphy.gif)" align="right" />
 </div>
 
 
