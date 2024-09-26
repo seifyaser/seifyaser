@@ -6,7 +6,7 @@
 - 📫 How to reach me: saifyasser386@gmail.com
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saifyasser-blue)](https://www.linkedin.com/in/saif-yasser-166035265/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saifyasser-blue)](https://www.linkedin.com/in/saif-yasser-166035265/)
 
 ## 🚀 Languages and Tools:
 <p align="left">
