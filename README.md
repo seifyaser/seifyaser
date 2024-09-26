@@ -12,7 +12,7 @@
 - 📚 I am a Software and Application Development Student  
 - 👨‍💻 I love using Software and technology to solve problems.  
 - 📚 I am currently learning **FLUTTER Framework**  
-- 📫 How to reach me: saifyasser386@gmail.com
+- 📫 Contact Me: saifyasser386@gmail.com
 
 </div>
 
