@@ -1,6 +1,7 @@
 #Hi 👋! My name is Saif Yasser
 
 ### About me
+- 📚 I am a Software and Application Development Student
 - 👨‍💻 I love using Software and technology to solve problems.
 - 📚 I am currently learning Flutter Framework.
 - 📫 How to reach me: saifyasser386@gmail.com
