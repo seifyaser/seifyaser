@@ -49,6 +49,9 @@
   <a href="https://developer.apple.com/ios/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="iOS" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://supabase.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
+</a>
   <a href="https://github.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
   </a>
