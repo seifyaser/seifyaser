@@ -110,10 +110,9 @@
 
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
 
-  </a>
 
 <a href="https://cloud.google.com/maps-platform" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/Maps/Maps-icon.svg" alt="Google Maps" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+   </a>
 </p>
