@@ -79,7 +79,7 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com/maps-platform" target="_blank">
-    <img src="https://raw.githubusercontent.com/google/material-design-icons/master/maps/2x_web/ic_map_black_48dp.png" alt="Google Maps" width="40" height="40"/>
+    <img src="https://www.logo.wine/a/logo/Google_Maps/Google_Maps-Icon-Logo.wine.svg" alt="Google Maps" width="40" height="40"/>
   </a>
 </p>
 
