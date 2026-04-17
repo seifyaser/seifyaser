@@ -23,7 +23,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left">
+<div align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
 <a href="https://flutter.dev" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
 </a>&nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@
 <a href="https://cloud.google.com/maps-platform" target="_blank">
   <img src="https://www.logo.wine/a/logo/Google_Maps/Google_Maps-Icon-Logo.wine.svg" alt="Google Maps" width="40" height="40"/>
 </a>
-</p>
+</div>
 
 ---
 
